@@ -3,8 +3,8 @@
 ["intro.html", "Chapter 2 Introduction", " Chapter 2 Introduction This guide has a safety component (largely borrowed from Dr. Burchell). This guide has some presentation of knots that are very useful in the field This guide has some guidance about measuring flow with weirs and flumes in the field This guide has some basic concepts about data resolution This guide has some basic good practices about data correction "],
 ["safety-in-the-field.html", "Chapter 3 Safety in the field", " Chapter 3 Safety in the field Here is a review of safety practices. "],
 ["useful-knots-in-the-field.html", "Chapter 4 Useful knots in the field", " Chapter 4 Useful knots in the field We describe our methods in this chapter. "],
-["final-words.html", "Chapter 5 Final Words", " Chapter 5 Final Words We have finished a nice book. "],
-["references.html", "References", " References "],
-["references-1.html", "References", " References "],
-["applications.html", "Chapter 6 Applications 6.1 Example one 6.2 Example two", " Chapter 6 Applications Some significant applications are demonstrated in this chapter. 6.1 Example one 6.2 Example two "]
+["applications.html", "Chapter 5 Applications 5.1 Example one 5.2 Example two", " Chapter 5 Applications Some significant applications are demonstrated in this chapter. 5.1 Example one 5.2 Example two "],
+["data-resolution-concepts.html", "Chapter 6 Data resolution concepts", " Chapter 6 Data resolution concepts Coming soon. "],
+["data-corrections-concepts-and-tools.html", "Chapter 7 Data corrections concepts and tools", " Chapter 7 Data corrections concepts and tools Coming soon. "],
+["references.html", "References", " References "]
 ]
