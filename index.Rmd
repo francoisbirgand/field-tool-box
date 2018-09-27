@@ -1,0 +1,17 @@
+--- 
+title: "Tool box for the field"
+author: "François Birand"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "This is a simple guide accessible online about important tools"
+---
+
+# Preface
+
+The goal of this guide is to be a repository of many good practices, ideas, and tricks that we have slowly accumulated over time for monitoring and field techniques. It will be enriched with time.

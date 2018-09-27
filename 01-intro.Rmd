@@ -1,0 +1,7 @@
+# Introduction {#intro}
+
+- This guide has a safety component (largely borrowed from Dr. Burchell).
+- This guide has some presentation of knots that are very useful in the field
+- This guide has some guidance about measuring flow with weirs and flumes in the field
+- This guide has some basic concepts about data resolution
+- This guide has some basic good practices about data correction
