@@ -28,7 +28,7 @@ knitr::include_url("https://www.youtube.com/embed/YXRnPES0Qec")
 
 ## The clove hitch
 
-It is often considered one of the most important knots and is commonly referred to as a Double Hitch [@Wikipedia_contributors2018-qh]. Unlike the bowline which has a loop of given dimension, the clove hitch tightens around an object and prevents slipping on the given object. 
+It is often considered one of the most important knots and is commonly referred to as a Double Hitch [@Wikipedia_contributors2018-qh]. Unlike the bowline which has a loop of given dimension, the clove hitch tightens around an object and prevents slipping on the given object, **provided that the object be not slippery**. It has one problem though: it tends to bind. But for many applications, this is what we are interested in.
 
 </br>
 
