@@ -46,3 +46,20 @@ knitr::include_url("https://www.youtube.com/embed/pwdZTHu5rTI")
 knitr::include_url("https://www.youtube.com/embed/shTbWHxYiWk")
 ```
 </br>
+
+## Blake's hitch
+
+This knot is very useful to tie a line to another about the same size. Under load, it is meant to cling very tightly onto the other line. It is used as a safety knot by arborists. When not under load, it can freely be moved up and down the other line. It is the quintensential knot for tent tensioner. It can also be used as a very effective way to grip around a shaft, woodstiff, etc. that you want to remove out of where it is installed (upward vertically most of the time). The hitch just clings very tightly to the shaft and this provides a great grip onto the shaft, which one could not obtain by hand alone.
+
+</br>
+
+```{r "blakes-hitch", eval=TRUE, echo=FALSE, out.width = '60%', fig.align = 'center', fig.cap="Tying Blake's hitch"}
+knitr::include_graphics("pictures/blakes.jpg")
+```
+</br>
+```{r "clove-blakevideo", echo=FALSE, out.width = '80%', fig.align = 'center', fig.cap="Tying Blake's hitch from [animatedknots.com](https://www.animatedknots.com/)"}
+knitr::include_url("https://www.youtube.com/embed/fXpuKxvIZa0")
+```
+
+</br>
+
